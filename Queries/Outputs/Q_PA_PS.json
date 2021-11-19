@@ -1,0 +1,127 @@
+[
+	{
+		"idPA" : 38,
+		"PA" : "Acétate de linalyle",
+		"Propriete" : "Antispasmodique"
+	},
+	{
+		"idPA" : 38,
+		"PA" : "Acétate de linalyle",
+		"Propriete" : "Sédatif"
+	},
+	{
+		"idPA" : 38,
+		"PA" : "Acétate de linalyle",
+		"Propriete" : "Anxyolitique"
+	},
+	{
+		"idPA" : 53,
+		"PA" : "Ambrettolure",
+		"Propriete" : "Actif sur le système endocrinien féminin"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Propriete" : "Stimulant cardio-respiratoire"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Propriete" : "Antiseptique pulmonaire"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Propriete" : "Antiprurigineux"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Propriete" : "Anesthésiant léger"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Propriete" : "Antinévralgique"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Propriete" : "Bronchodilatateur expectorant"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Propriete" : "Relaxant des muscles lisses et striés."
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Propriete" : "Révulsif par voie externe"
+	},
+	{
+		"idPA" : 56,
+		"PA" : "E-anéthole",
+		"Propriete" : "œstrogénique"
+	},
+	{
+		"idPA" : 3,
+		"PA" : "Eugénol",
+		"Propriete" : "Antalgique"
+	},
+	{
+		"idPA" : 16,
+		"PA" : "Linalol",
+		"Propriete" : "Antispasmodique"
+	},
+	{
+		"idPA" : 16,
+		"PA" : "Linalol",
+		"Propriete" : "Antalgique"
+	},
+	{
+		"idPA" : 50,
+		"PA" : "Méthyl-chavicol ",
+		"Propriete" : "Stimulant psychique"
+	},
+	{
+		"idPA" : 50,
+		"PA" : "Méthyl-chavicol ",
+		"Propriete" : "Antispasmodique des fibres musculaires lisses"
+	},
+	{
+		"idPA" : 4,
+		"PA" : "Méthyl-eugénol",
+		"Propriete" : "Décontracturant"
+	},
+	{
+		"idPA" : 18,
+		"PA" : "Néral",
+		"Propriete" : "Psychostimulant"
+	},
+	{
+		"idPA" : 54,
+		"PA" : "Pentadécanolure",
+		"Propriete" : "Actif sur le système endocrinien féminin"
+	},
+	{
+		"idPA" : 5,
+		"PA" : "Salicylate de méthyle",
+		"Propriete" : "Anti-inflamatoire"
+	},
+	{
+		"idPA" : 5,
+		"PA" : "Salicylate de méthyle",
+		"Propriete" : "Antipyrétique"
+	},
+	{
+		"idPA" : 5,
+		"PA" : "Salicylate de méthyle",
+		"Propriete" : "Analgésique"
+	},
+	{
+		"idPA" : 55,
+		"PA" : "Sclaréol",
+		"Propriete" : "œstrogénique"
+	}
+]

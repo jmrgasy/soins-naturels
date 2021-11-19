@@ -1,0 +1,87 @@
+[
+	{
+		"idPA" : 13,
+		"PA" : "Béta-phellandrène",
+		"Nom" : "Lavande officinale ou Lavande vraie"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Nom" : "Tanaisie vulgare"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Nom" : "Tanaisie annum"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Nom" : "Lavande aspic"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Nom" : "Armoise"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Nom" : "Camphrier du Japon"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Nom" : "Romarin"
+	},
+	{
+		"idPA" : 62,
+		"PA" : "Camphre",
+		"Nom" : "Sauge officinale"
+	},
+	{
+		"idPA" : 12,
+		"PA" : "Citronnellal",
+		"Nom" : "Lavande officinale ou Lavande vraie"
+	},
+	{
+		"idPA" : 3,
+		"PA" : "Eugénol",
+		"Nom" : "Bois d’Inde ou bay de Saint Thomas"
+	},
+	{
+		"idPA" : 16,
+		"PA" : "Linalol",
+		"Nom" : "Lavande officinale ou Lavande vraie"
+	},
+	{
+		"idPA" : 4,
+		"PA" : "Méthyl-eugénol",
+		"Nom" : "Basilic romain ou exotique"
+	},
+	{
+		"idPA" : 5,
+		"PA" : "Salicylate de méthyle",
+		"Nom" : "Gaulthérie / Thé du Canada / Wintergreen"
+	},
+	{
+		"idPA" : 5,
+		"PA" : "Salicylate de méthyle",
+		"Nom" : "Bouleau jaune et le Bouleau flexible"
+	},
+	{
+		"idPA" : 5,
+		"PA" : "Salicylate de méthyle",
+		"Nom" : "Lavande officinale ou Lavande vraie"
+	},
+	{
+		"idPA" : 5,
+		"PA" : "Salicylate de méthyle",
+		"Nom" : "Menthe poivrée"
+	},
+	{
+		"idPA" : 1,
+		"PA" : "Thymol",
+		"Nom" : "Lavande officinale ou Lavande vraie"
+	}
+]
